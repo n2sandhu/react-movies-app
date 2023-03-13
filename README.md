@@ -1,3 +1,6 @@
+# Getting Started 
+Run: `npm i`
+
 # Running the development server
 
 In the project directory, you can run:
